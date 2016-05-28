@@ -1,5 +1,5 @@
 # Wed Design SWD500
-![readme banner](/RepoAssets/MyBanner__0000_DES500.png)
+![readme banner](/RepoAssets/MyBanner__0000_SWD500.png)
 image: Jeremy Keith  - Creative Commons
 
 This unit will build on the skills acquired at Level 4 in: planning, design/design theory and technical skills to create modern responsive websites and apps.
