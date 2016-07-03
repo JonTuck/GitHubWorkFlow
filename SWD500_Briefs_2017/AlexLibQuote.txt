@@ -1,0 +1,5 @@
+In a work environment, there might be a number of people making changes to the pattern library, and so consideration for some sort of methodology/convention to help manage this will be needed. This (hopefully) means that the code won’t conflict with any future code.
+
+Documentation makes up a large part of a good pattern library. Not everyone using them is going to be a seasoned front-end developer (designer, back-end developer). So it’s quite important that they’re as easy to understand as possible. Because ultimately, pattern libraries are about two things: Implementing consistency, and saving time.
+
+Testing is also quite an important part. Pattern libraries are really good for testing individual components and identifying areas of weakness, well before they go anywhere near a production website/application. Maybe consider how the pattern libraries would make it easier to test individual patterns.
