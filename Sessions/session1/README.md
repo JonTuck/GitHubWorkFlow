@@ -4,8 +4,11 @@ The Web Design unit builds on your existing HTML/CSS skills. It extends the conc
 
 ##Structure of an HTML page
 
-An HTML document is made up of elements 
- - elements are containers for content - everything from the start tag to the end tag - some types of element may contain other elements
+An HTML document is made up of elements
+ 
+ - elements are containers for content
+ - everything from the start tag to the end tag
+ - some types of element may contain other elements
 
 Each HTML page must be saved with a **.html** extension
 
@@ -155,5 +158,4 @@ property:
 ```
 
 ![](assets/floatleftandright.png)
-
 
