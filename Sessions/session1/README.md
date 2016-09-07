@@ -29,9 +29,9 @@ Each HTML page must be saved with a **.html** extension
 	<p>I'm  a paragraph</p>
 	<h2> This is a list </h2>
 	<ul>  <!-- this is an unordered list -->
-		<li> List item 1</li>
-		<li> List item 2 </li>
-		<li> List item 3 </li>
+		<li class="odd"> List item 1</li>
+		<li class="even"> List item 2 </li>
+		<li class="odd"> List item 3 </li>
 	</ul> <!-- end list -->	
 	<img src="http://placehold.it/350x150">
 	<a href="/home.html"> Click me </a> 
@@ -40,68 +40,120 @@ Each HTML page must be saved with a **.html** extension
 ...
 ```
 
+![figure1](assets/figure1.png)
+
+>> Above code rendered in browser (it's not very pretty yet!)
 
 
+### class and id AttributesIn the above example notice the use of class and id attributes, e.g
+
+```html 
+	<li class="even"> List item 2 </li>
+	<div id="wrapper"> 
+```
+
+- **class** specifies the element as a member of one or more classes allow developers to define specific kinds of a given elementsyntax:   `<element class="classname">`
+
+
+- **id** specifies a unique id for an HTML elementcan be used to point in a style sheetsyntax: <element id="id">
 ##CSS 
 
-<iframe height='265' scrolling='no' src='//codepen.io/joeappleton18/embed/zKxXEj/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joeappleton18/pen/zKxXEj/'>A Basic HTML Page</a> by Joe Appleton (<a href='http://codepen.io/joeappleton18'>@joeappleton18</a>) on <a href='http://codepen.io'>CodePen</a>
+- CSS stands for Cascading Style Sheets - Styles define how to display HTML elements##Including an external style sheet 
 
+```html
+<head><link rel="stylesheet" type="text/css"  href="mystyle.css"/></head>
+```
 
-##Styling page elements 
+##Styling HTML page elements 
+
 
 ###Directly styling an element 
-###Classes divs 
-###Common attributes 
+
+Within our style sheet we can target specific html elements, e.g.:
+
+```html 
+ 	h1 { color : blue; font-size: 200% } 
+```
+
+- This will make all `<h1>` headings blue, and double normal font size (200%)
+
+####Common attributes 
+|font size| Font size |
+|---------| ----------|
+|font-family| Font family (helvetica, arial etc)|
+|font-weight | Font weight (degree of boldness) |
+| color | Text colour |
+| background-color | 	Background colour|
+
+
+###Styling tags with classes or id's 
+
+**HTML**
+
+```html
+<p id="para1">First paragraph, blah blah blah...</p>
+```
+
+**CSS**
+
+```css
+#para1 { background-color: yellow }
+```
+
+
+**HTML**
+
+```html
+<p class="para1">First paragraph, blah blah blah...</p>
+```
+
+
+**CSS**
+
+```css
+.para1 { background-color: yellow }
+```
+
+
+
 ###CSS positioning 
 
+The best way to position HTML elements is by using the CSS `float`
+property:
+
+**Default static position of 2 DIVS**
+
+```html
+#wrapper{width: 80%}#box1 {     width: 20%;}#box2 {      width: 20%;   }
+```
+
+![](assets/normal.png)
 
 
 
+**Adding a float to the left**
+
+```html
+#wrapper{width: 80%}#box1 {   width: 20%;  float: left;
+  }#box2 {      width: 20%;    float: left; 
+   
+     }
+
+/* We could add margin-left:20%; to #box one to create space 	*/
+
+```
+
+![](assets/floatedleft.png)
 
 
 
+**Adding a float to the left and right**
 
+```html
+#wrapper{width: 80%}#box1 {     width: 20%;  float: left;}#box2 {      width: 20%;    float: right;   }
 
+```
 
-
-
-
-
-Please only use external styles for this task. 
-
-##Task 1  - Style up your week one page
-
-**Set up**  
-
-* Inside your `internet_tech` directory create a `session4` folder. 
-* Copy your webpage from **session1** into the `session4` folder you just created. 
-* Create a new style sheet and `<link>` it into your webpage. It's a good idea to place the style sheet in a new folder e.g. `css`. 
-
-**Let's make your page look a little but more presentable**
-
-Please go wild and style the page as much as you like, but as a minimum I want to see you complete the below tasks. Once done your page should resemble the layout below:
-
-![site_layout](task_image_new.psd)
-
-
-* Section up your site using a minimum of 3 `<div>'s `#left_nav`, `#section` and `#wrapper` which holds all the content.
-* To start with give `#left_nav` a width of **20%** and `#section` a width of **80%**.
-* Give `#wrapper` a width of **80%** and centre align it using `#wrapper {margin: 0 auto;}` 
-* Add a different `background-color` to  `#left_nav` and `#section`.
-* Use `float` to position  `#left_nav` and `#section` side by side, as per the mock up above. 
-* Use a `<ul>...</ul>` to create a basic navigation list in `#left_nav`. Have at least 3 links, but you don't need to create the corresponding pages. Here's how to create a placeholder link: `<a href="#">  Home </a>`
-* Apply some pseudo classes to your links, so they change colour based on their status. Below is an example: 
-
-		     a:link {color:#FF0000;}      /* unvisited link */   
-			 a:visited {color:#00FF00;}   /* visited link */   
-			 a:hover {color:#FF00FF;}     /* mouse over link */   
-   		     a:active {color:#0000FF;}    /* selected link */  
-   		    
-* Resize the image and centre align it.
-* Remove the bullet points from the `<ul>` nav list **(Optional)** 
-										
-
-##Task 2 - Update your learning log
-Don't forget once you're done update your learning_log.html and link to your new page in the evidence section of the table. 
+![](assets/floatleftandright.png)
 
 
