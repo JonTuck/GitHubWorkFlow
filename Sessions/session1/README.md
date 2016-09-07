@@ -4,18 +4,35 @@ The Web Design unit builds on your existing HTML/CSS skills. It extends the conc
 
 ##Structure of an HTML page
 
-An HTML document is made up of elements 
- - elements are containers for content - everything from the start tag to the end tag - some types of element may contain other elements
+An HTML document is made up of elements
+ 
+ - elements are containers for content
+ - everything from the start tag to the end tag
+ - some types of element may contain other elements
 
 Each HTML page must be saved with a **.html** extension
 
 ```html 
-<!DOCTYPE html><html>      <head>	<title>my first page</title>      </head>      <body>			<h1>This is my first Web Page</h1>			<p>I should write a paragraph about myself</p>			<img src="image.jpg" alt="describe the image” >			<a href="http://www.solent.ac.uk">University</a>      </body></html>```
+<!DOCTYPE html>
+<html>
+      <head>
+	<title>my first page</title>
+      </head>
+      <body>
+			<h1>This is my first Web Page</h1>
+			<p>I should write a paragraph about myself</p>
+			<img src="image.jpg" alt="describe the image” >
+			<a href="http://www.solent.ac.uk">University</a>
+      </body>
+</html>
+
+```
 
 ###Attributes 
 
  - Each element may have one or more attributes
-	- provide additional information about elements   - specified in the start tag
+	- provide additional information about elements
+   - specified in the start tag
 
 ![elements](assets/elements.png)
 
@@ -44,7 +61,8 @@ Each HTML page must be saved with a **.html** extension
 
 ##CSS 
 
-<iframe height='265' scrolling='no' src='//codepen.io/joeappleton18/embed/zKxXEj/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joeappleton18/pen/zKxXEj/'>A Basic HTML Page</a> by Joe Appleton (<a href='http://codepen.io/joeappleton18'>@joeappleton18</a>) on <a href='http://codepen.io'>CodePen</a>
+<p data-height="265" data-theme-id="0" data-slug-hash="zKxXEj" data-default-tab="html,result" data-user="joeappleton18" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/joeappleton18/pen/zKxXEj/">A Basic HTML Page</a> by Joe Appleton (<a href="http://codepen.io/joeappleton18">@joeappleton18</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 
 ##Styling page elements 
