@@ -3,7 +3,7 @@
  - [About the Unit](#about-the-unit)
  - [Unit Team](#unit-team)
  - [Assessment Information & Assignment Briefs](#assessment_information_&_assignment_briefs)  
- -  Sc
+ 
 
 
 
@@ -47,5 +47,13 @@ The first assessment due in on **Friday 11th November 2016 22:00hrs** will inclu
 
 The second assessment covers implementation of the fully responsive website, research and planned in AE1. You are also required to submit a revisited criteria of success that was also delivered within the AE1 and evidence that the site is responsive and works on a wide range of devices, This assessment is due in on **Friday 13th January 2017 by 22:00hrs** and is worth 70% of the mark.
 
-It is important that you adhere to current web standards and your production methods are focused on hand coding and scripting, rather than the reliance of frameworks or off-the-peg templates and JavaScript libraries. To support this authentic approach you are required to document your scripting by using comments:	
+It is important that you adhere to current web standards and your production methods are focused on hand coding and scripting, rather than the reliance of frameworks or off-the-peg templates and JavaScript libraries. To support this authentic approach you are required to document your scripting by using comments:
+
+
+##Course Schedule 
+
+|Week| Topic   | Pratical |
+|----|---------| ---------|	
+| 1 (Session 1) | [HTML/CSS Revision](sessions/session1/README.md) |     [Creating a basic home page](sessions/session1/pratical.md)    |
+| 1 (Session 2) | [HTML/CSS Revision](sessions/session1/README.md) |     [Creating a basic home page](sessions/session1/pratical.md)    |
 
