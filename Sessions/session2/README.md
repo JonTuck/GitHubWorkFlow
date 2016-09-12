@@ -95,18 +95,36 @@ GIT allows you to in effect create a separate version of the project and experim
 
 #How Git works 
 
-At this stage we're not going to look at the finer specifics of how to configure and use GIT. We wan't to give you an overview of how git works. 
+At this stage we're not going to look at the finer specifics of how to configure and use GIT. We want to give you an overview of how git works:
 
-##A Repository 
+###Command Line or GUI?
 
+Once GIT is installed there are two ways of using it, command line or the GUI application. We'll focus more on command line as this is generally how git is used in industry.
 
-
-
-
-##Committing changes 
+![](assets/command_line_or_gui.png)
 
 
 
+##A Repository `git init`
+
+- When you start a new project you run the command `git init` within your projects root folder. This creates an empty git repository.
+- A kind of database where your project is stored. Changes made to your project are stored in this database. 
+
+![](assets/git_folder.png)
+>> Git will now be tracking all changes within your project folder
+
+
+##Committing changes `git commit`
+
+ - When we've got to a stage in a project where we want to in essentially, make a back up. We:
+ 	- Stage the files we want to commit,  
+ 		- `git add -A` stages all the files for commit 
+ 		- `git add sample.txt` stages just sample.txt for commit
+ 	- We now can take a snapshot of our project by running `git commit -m "set up home page"` notice how we add a message to the commit, this should be a short description of the work you have completed for this commit. 
+
+![](assets/git_work_flow.png) 	
+
+ 
 
 
 
@@ -114,9 +132,7 @@ At this stage we're not going to look at the finer specifics of how to configure
 
 
 
-#Downloading 
 
-#Setting up a new git project
 
 
 
