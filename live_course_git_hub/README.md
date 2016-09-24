@@ -48,10 +48,3 @@ The second assessment covers implementation of the fully responsive website, res
 It is important that you adhere to current web standards and your production methods are focused on hand coding and scripting, rather than the reliance of frameworks or off-the-peg templates and JavaScript libraries. To support this authentic approach you are required to document your scripting by using comments:
 
 
-##Course Schedule 
-
-|Week| Topic   | Pratical |
-|----|---------| ---------|	
-| 1 (Session 1) | [HTML/CSS Revision](sessions/session1/README.md) |     [Creating a basic home page](sessions/session1/pratical.md)    |
-| 1 (Session 2) | [HTML/CSS Revision](sessions/session1/README.md) |     [Creating a basic home page](sessions/session1/pratical.md)    |
-
