@@ -21,6 +21,7 @@ Please go wild and style the page as much as you like, but as a minimum I want t
 			 a:hover {color:#FF00FF;}     /* mouse over link */   
    		     a:active {color:#0000FF;}    /* selected link */  
    		    
-* Resize the image and centre align it.
+* Insert an image into the main section and centre align it
 * Remove the bullet points from the `<ul>` nav list **(Optional)** 
+* Create two further side by side sections in the main #section
 										
