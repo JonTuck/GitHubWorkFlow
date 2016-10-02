@@ -9,10 +9,11 @@ The purpose of this practical is to simulate how a collaborative git work flow w
 - Everyone on the team should create a local repository and add the remote of the new repository set up by the team leader
 - Each team member should then create a new branch based on the name, using the following convention `firstname_lastname`
 - Next, create a `firstname_lastname.md` file within it you include the following:
-		- A photo of yourself 
-		- A few paragraphs on what you hope to get out of year 2 
-		- Some concerns you currently have  
-		
+
+	- Your name
+	- Next, research what is meant by workflow in GIT?
+	- What workflow will you use for your responsive website  	
+	
 **You'll need to conduct you own research on how to do the below**
 
 - When your done commit your changes and push the `firstname_lastname` branch (**not, the master branch**) to the origin	
