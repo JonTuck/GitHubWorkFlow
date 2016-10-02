@@ -108,12 +108,8 @@ nothing to commit (create/copy files and use "git add" to track)
 ![](assets/multiple_commits.jpg)
 
 
-# - Learn how to undo things
 
-##Resetting a single file `git checkout`
-##Resetting all files to previous commit `git rest --hard`
-##Reverting to an old version of the code `git revert`
+#7 Self Study
 
 
-
-
+Next session we'll be looking at remotes and how to remotely store your work on GitHub. If you have time, try and work our how to push your work to a new repository that you've create on GITHub.
