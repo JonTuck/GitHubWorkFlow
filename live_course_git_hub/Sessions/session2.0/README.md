@@ -1,4 +1,4 @@
-#Introduction to Version Control with Git & Git Hub 
+#Introduction to Version Control with Git 
 
 
 #What is version control?
@@ -26,9 +26,6 @@ Again people may use cloud storage for saving their work and controlling differe
 
 
 #Enter version control!
-![](assets/gitlogo.png)
-
-To avoid the above pitfalls we need to use a version control system. 
 
 ##The history of version control
 
@@ -74,7 +71,7 @@ Marc Rochkind develops source code control system (SCCS) in 1971 and publishes a
 
 #Enter GIT 
 
-![](assets/git.svg)
+![](assets/gitlogo.png)
 
 As of 2016, GIT is one of the most widely used version control systems in the world.
 
@@ -123,20 +120,6 @@ Once GIT is installed there are two ways of using it, command line or the GUI ap
  	- We now can take a snapshot of our project by running `git commit -m "set up home page"` notice how we add a message to the commit, this should be a short description of the work you have completed for this commit. 
 
 ![](assets/git_work_flow.png) 	
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
