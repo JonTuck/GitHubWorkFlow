@@ -4,26 +4,44 @@
 - HTML5 offers new HTML elements that are far more descriptive **no more div soup** 
  
 
-```<!DOCTYPE html><html>    <head>    <title>Title</title>    </head>    <body>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Title</title>
+    </head>
+    <body>
          <div id="wrapper">  
            
-            <header>                    <h1>An HTML Five Template</h1>            </header>            <div id="content">
+            <header>
+                    <h1>An HTML Five Template</h1>
+            </header>
+            <div id="content">
             
             		<section> </section>
             		<section> </section>
-                        </div> <!-- we can still use divs -->
+            
+            </div> <!-- we can still use divs -->
             <aside>
             
             </aside>
-            <footer>              </footer>
-        </div> <!-- end[wrapper] -->    </body></html>
+            <footer>  
+            </footer>
+        </div> <!-- end[wrapper] -->
+    </body>
+</html>
 ```
 
 
 ##Viewport Meta Tag
-- When making responsive websites we use this tag to set the viewport to the width of the device that is being used
 
-- This will allow us to implement CSS that responds to the width of the viewport ```html 
+
+- When making responsive websites we use this tag to set the viewport to the width of the device that is being used
+
+- This will allow us to implement CSS that responds to the width of the viewport 
+
+
+```html 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 
@@ -108,12 +126,6 @@
 	
 ```
 	
-**Result**
-	
-<div style="box-shadow: 5px 5px 5px  #888888;width:200px;height:200px"> 
-	<p>This is a box</p> 
-
-</div>
 
 
 ##Better control over targeting elements 
