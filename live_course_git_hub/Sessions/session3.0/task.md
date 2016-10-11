@@ -14,7 +14,7 @@ The purpose of this practical is to simulate how a collaborative git work flow w
 	- Research what is meant by workflow in GIT?
 	- What workflow will you use for your responsive website  	
 	
-**You'll need to conduct you own research on how to do the below**
+**You'll need to conduct your own research on how to do the below**
 
 - When your done commit your changes and push the `firstname_lastname` branch (**not, the master branch**) to the origin	
 - Go to gitHub and raise a pull request on your branch 
