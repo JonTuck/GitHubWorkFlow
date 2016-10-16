@@ -3,9 +3,17 @@
 
 ##What's the need for SASS
 
+###Ruby
+ 
+
+
 ##Tools of the trade 
 
+##Some of the main features 
 
+###Varibles
+
+Harry 
 
 
 
