@@ -14,3 +14,5 @@
 - Add a white to grey gradient to the wrapper, work out how make the gradient resemble the mock up above 
 - Add a drop shadow to the photo 
 - You should use the following HTML5 tags `<section>` , `<aside>`, `<header>`
+
+
