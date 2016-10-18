@@ -84,7 +84,9 @@ This is very much like the wrapper div you may have used for making HTML pages s
 }
 ```
 
-- To work out the size of a single grid column we divide the wrapper width in this case 100% by the our number of columns 16
+- To work out the size of a single grid column we divide the wrapper width in this case 100% by the number of columns 16. 100%/16 = 6.25% ,
+since we know the width of a single column we can easily work out the width of all further columns. For example, a 3 column width would be 6.25 * 3
+
 - We want our grid columns to layout side by side, we can target all of our cols by using the below rule. As long as we follow the format `col-<width>` all of our columns will be target with just one rule
 
 ```css
@@ -175,8 +177,8 @@ We can now nest columns within rows:
 
 ##Resources 
 [W3Schools Grid Tutorial](http://www.w3schools.com/css/css_rwd_grid.asp)  
-[Creating a Simple CSS Grid From Scratch](http://j4n.co/blog/Creating-your-own-css-grid-system)
-[A Great Article on Creating Grids](https://css-tricks.com/dont-overthink-it-grids/)  
-[HTML5 And The Document Outlining Algorithm](https://www.smashingmagazine.com/2011/08/html5-and-the-document-outlining-algorithm/)   
-[Fluid Grids](www10.landg.com/ProtectionPortal/home.htm)
+[Creating a Simple CSS Grid From Scratch](http://j4n.co/blog/Creating-your-own-css-grid-system)  
+[A Great Article on Creating Grids](https://css-tricks.com/dont-overthink-it-grids/)    
+[HTML5 And The Document Outlining Algorithm](https://www.smashingmagazine.com/2011/08/html5-and-the-document-outlining-algorithm/)     
+[Fluid Grids](www10.landg.com/ProtectionPortal/home.htm)  
 
