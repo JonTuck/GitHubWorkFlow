@@ -17,3 +17,7 @@ This week we're going to create our own grid. We'll focus on making it responsiv
 
 
 >> You can take a look at my [part completed grid](https://codepen.io/joeappleton18/pen/WGgZXO) as a starting point
+
+ **[Link to task 3 image](https://raw.githubusercontent.com/joeappleton18/swd500/master/live_course_git_hub/Sessions/session3.1/assets/main_picture.jpg)**
+ 
+ **[We 3 solution, if you get stuck](https://github.com/joeappleton18/swd500/tree/master/live_course_git_hub/Sessions/session4.0/examples/sample_landing_page/builds/development)**
