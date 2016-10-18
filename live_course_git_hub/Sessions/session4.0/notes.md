@@ -172,7 +172,7 @@ We can now nest columns within rows:
 ```
 
 
-
+**a code pen example of a part implemented grid [grid](https://codepen.io/joeappleton18/pen/WGgZXO)**
 
 
 ##Resources 
