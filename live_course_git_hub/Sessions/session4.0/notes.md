@@ -50,7 +50,7 @@ This is very much like the wrapper div you may have used for making HTML pages s
 ```css
 .wrapper {
   display:table;
-  max-width: 1200px;
+  width: 100% ;
   
 }
 
