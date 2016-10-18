@@ -172,7 +172,23 @@ We can now nest columns within rows:
 ```
 
 
-**a code pen example of a part implemented grid [grid](https://codepen.io/joeappleton18/pen/WGgZXO)**
+Your grid is just the scafolding for your website. For each new site you make you're going to need to add further styles to your elements to give them the look and feel you want.  **Rememeber you can apply mutiple classes to an HTML element** e.g. :
+
+```
+<div class="col-1 green">
+
+</div> <!-- . [END] .green .col-1 -->
+```
+**CSS**
+
+```css
+.green {
+	background-color: green; 
+}
+```
+
+**a code pen example of a part implemented [grid](https://codepen.io/joeappleton18/pen/WGgZXO)**
+
 
 
 ##Resources 
