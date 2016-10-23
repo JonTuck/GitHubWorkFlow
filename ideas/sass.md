@@ -1,19 +1,21 @@
-##What Is SASS 
+##Workflow Improvement 
 
+
+##What Is SASS 
 
 ##What's the need for SASS
 
 ###Ruby
  
-
-
 ##Tools of the trade 
 
 ##Some of the main features 
 
-###Varibles
+###Variables
 
-Harry 
+###Loops 
+
+###Nested rules 
 
 
 
