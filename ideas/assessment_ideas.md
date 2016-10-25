@@ -40,9 +40,12 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
 - What sort of grid will you be using?
 - Based off the analysis what workflow approach will you use?
   - What is your git branching strategy, how do you intend to store your work on gitHUB?
-  - What CSS preprocessor (e.g. SASS) are you using and how will it work?
-  - If you're using task manager tools such as grunt or gulp how to you intend to use them?	 
-  - How do you intend to test your work, real devices , developer tools e.t.c .. 	 
+  - How do you intend to test your work, real devices , developer tools e.t.c .. 
+  
+ ***For higher marks think about the below***
+ 
+ - If you're using task manager tools such as gulp how to you intend to use them?	 
+   
 
 
 #Specification 
