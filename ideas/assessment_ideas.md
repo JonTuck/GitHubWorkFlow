@@ -27,7 +27,7 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
 **For higher marks you may also want to look into the below workflow tools that have not been covered yet ***
 	
 	- CSS Pre-processors such as SASS  
-	- Look into task management tools such as grunt , what are they and why are they used 
+	- Look into task management tools such as gulp, what are they and why are they used 
 	
 - Responsive site performance consideration *
  
