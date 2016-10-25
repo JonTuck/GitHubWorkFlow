@@ -24,12 +24,12 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
 
 	- Version control systems
 	
-**For higher marks you may also want to look into the below workflow tools that have not been covered yet ***
+**For higher marks you may also want to look into the below workflow tools that have not been covered yet***
 	
 	- CSS Pre-processors such as SASS  
 	- Look into task management tools such as gulp, what are they and why are they used 
 	
-- Responsive site performance consideration *
+- Responsive site performance consideration
  
 
 #Method 
@@ -42,9 +42,9 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
   - What is your git branching strategy, how do you intend to store your work on gitHUB?
   - How do you intend to test your work, real devices , developer tools e.t.c .. 
   
- ***For higher marks think about the below***
+***For higher marks think about the below***
  
- - If you're using task manager tools such as gulp how to you intend to use them?	 
+ - If you're using task manager tools such as gulp how to you intend to it?	 
    
 
 
