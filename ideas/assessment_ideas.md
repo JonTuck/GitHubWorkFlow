@@ -22,9 +22,12 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
 
 - What is work flow and how is it used on a web project:
 
-	- Version control systems 
+	- Version control systems
+	
+**For higher marks you may also want to look into the below workflow tools that have not been covered yet***
+	
 	- CSS Pre-processors such as SASS  
-	- Look into task management tools such as grunt and gulp 
+	- Look into task management tools such as gulp, what are they and why are they used 
 	
 - Responsive site performance consideration
  
@@ -37,14 +40,17 @@ Below are some further suggestion for assessment 1. Pleas note, this is just gui
 - What sort of grid will you be using?
 - Based off the analysis what workflow approach will you use?
   - What is your git branching strategy, how do you intend to store your work on gitHUB?
-  - What CSS preprocessor (e.g. SASS) are you using and how will it work?
-  - If you're using task manager tools such as grunt or gulp how to you intend to use them?	 
-  - How do you intend to test your work, real devices , developer tools e.t.c .. 	 
+  - How do you intend to test your work, real devices , developer tools e.t.c .. 
+  
+***For higher marks think about the below***
+ 
+ - If you're using task manager tools such as gulp how to you intend to it?	 
+   
 
 
 #Specification 
+**You should not include wire frames as these will be part of assesment two **
 
-- Project design needs (wireframes should be included)
 - Outline the features of your website 
 - Include a notional client invoice
 
