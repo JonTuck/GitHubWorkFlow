@@ -1,0 +1,27 @@
+{
+  "name": "swd500",
+  "version": "1.0.0",
+  "description": "- [About the Unit](#about-the-unit)  - [Unit Team](#unit-team)  - [Assessment Information & Assignment Briefs](#assessment_information_&_assignment_briefs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update_shot": "defaults write com.apple.screencapture location ~/OneDrive/solent/courses/2016-2017/web/SWD500/tmp_images",
+    "reset_shot":   "defaults write com.apple.screencapture location ~/Dropbox/screenshots"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeappleton18/swd500.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeappleton18/swd500/issues"
+  },
+  "homepage": "https://github.com/joeappleton18/swd500#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.10"
+  }
+}
