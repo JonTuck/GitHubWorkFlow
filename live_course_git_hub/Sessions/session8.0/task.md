@@ -38,7 +38,7 @@
 
 - If you check your `main.css` file you should see your compiled code
 
-#Practical 2 - Converting some legacy css into css
+#Practical 2 - Converting some legacy css into scss
 
 -  A great way to learn sass is to take some existing CSS and enhance it using Sass rules
  
