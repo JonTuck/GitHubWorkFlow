@@ -1,13 +1,13 @@
 ##Workflow Improvement 
 
-Workflow can be considered as the tools we use to make our lives as developers easier. This week we'll dip our toe in the water and set up SASS.
+Workflow can be considered as the tools we use to make our lives as developers easier. This week we'll dip our toe in the water and set up SASS, which will aid your css workflow. 
 
 ##What Is Sass 
 
 - Sass stands for Syntactically Awesome Style Sheet
-- Sass extends the functionality of CSS
-- Sass has a very low learning curve 
-- Sass is what is know as a preprocessor, it takes a `scss` file and converts it to css
+- It extends the functionality of CSS
+- It has a very low learning curve 
+- Sass is what is know as a preprocessor, it takes a `scss` file and converts it into css. 
 
 **A simple SCSS example**
 
@@ -31,7 +31,7 @@ p {
 
 ##Using Sass
 
- - In order to use sass we need to compile a sass file (.scss) into css. This may seem some what intimidating at first, but it's really not too bad.
+ - In order to use sass we need to compile a sass file (.scss) into css. This may seem somewhat intimidating at first, but it's really not too bad
 
 ![assets/scout_app.png](assets/scout_app.png)
 
