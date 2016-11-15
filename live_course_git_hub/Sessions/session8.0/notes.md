@@ -24,7 +24,7 @@ p {
 $pink: #ea4c89;
 p {
  font-size: 12px;
- color: $pink;
+ color: #ea4c89;
 ```
 }
 

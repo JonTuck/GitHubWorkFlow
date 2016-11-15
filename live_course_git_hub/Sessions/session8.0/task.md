@@ -38,11 +38,11 @@
 
 - If you check your `main.css` file you should see your compiled code
 
-#Practical 2 - Converting some legacy css into css
+#Practical 2 - Converting some legacy css into scss
 
 -  A great way to learn sass is to take some existing CSS and enhance it using Sass rules
  
--  Download the following zip file from here and save it on your c drive
+-  Download the following zip file from [here](https://github.com/joeappleton18/swd500/raw/master/live_course_git_hub/Sessions/session8.0/assets/scssPractical.zip) and save it on your u drive
 
 -  Notice how main.scss currently just has normal css in it. Sass is just an extension of css so this is fine. 
 - This template is somewhat old fashioned, so we're going to progressively enhance it using sass. 
