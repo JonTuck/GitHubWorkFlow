@@ -94,7 +94,7 @@ nav {
 a {		color:$light_green; 
 		font-weight:bold; 
 		text-decoration:none;
- 		&hover{color:#505050; text-decoration:underline;}
+ 		&:hover{color:#505050; text-decoration:underline;}
   }
 
 ```
