@@ -31,25 +31,38 @@ p {
 
 ##Using Sass
 
+##Setting up a folder structure
+ ![assets/scout_app.png](assets/scout_app.png)
+ - The first thing we need to do is set up a folder structure that includes a `css` and a `.scss` file.
+ - The `scss` file holds are sass which is compiled and outputted to our `css` file
+ - We then include the css file into our html page
+  
+ 
+##Compiling Sass 
+
  - In order to use sass we need to compile a sass file (.scss) into css. This may seem somewhat intimidating at first, but it's really not too bad
+ 
 
-
-##Scout App
+###Scout App
 
 ![assets/scout_app.png](assets/scout_app.png)
-
+  
+ 
  - The simplest way is to use [scout-app.io](http://scout-app.io), which can be downloaded for free
 
  - Scout will automatically convert sass into css for us
 
 
 
-#Using Command Line SASS 
+###Using Command Line SASS 
 
 - If you're using [cloud9](http://www.cloud9.io), command line sass comes pre-installed 
 - If you're working from a native ernviroment you'll need to visist the [sass website](http://sass-lang.com/install) and install it locally 
+- From the terminal we then need to run the scout watch command with our input and output file
 
- 
+```bash  
+ sass --watch scss/main.scss:css/main.css
+``` 
  
 ##Some of the main features 
 
