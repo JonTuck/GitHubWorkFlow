@@ -11,11 +11,25 @@ In this session we'll look at some more advanced features that will assist you g
 - Below is an example of how we'd work out the width of a grid column 
 
 ```
+$grid_cols = 12;
 $max_width : 100%; /* a var for max width */
+$col_1_width : $max_width / $grid_cols;
 
 .col-1 {
-  width: $max_width / 16; 
-}	
+  width: $col_1_width;
+}
+
+.offset-1 {
+  margin-left: $col_1_width;	
+}
+
+.col-2 {
+  width: $col_1_width * 2;
+}
+
+.offset-2 {
+  margin-left: $col_1_width * 2;	
+}
 
 ```
 
