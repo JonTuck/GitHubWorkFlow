@@ -32,7 +32,7 @@ p {
 ##Using Sass
 
 ##Setting up a folder structure
- ![assets/scout_app.png](assets/folder_structure.png)
+ ![assets/scout_app.png](assets/folder_structure.jpg)
  - The first thing we need to do is set up a folder structure that includes a `css` and a `.scss` file.
  - The `scss` file holds are sass which is compiled and outputted to our `css` file
  - We then include the css file into our html page
