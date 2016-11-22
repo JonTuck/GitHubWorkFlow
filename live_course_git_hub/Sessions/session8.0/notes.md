@@ -33,16 +33,24 @@ p {
 
  - In order to use sass we need to compile a sass file (.scss) into css. This may seem somewhat intimidating at first, but it's really not too bad
 
+
+##Scout App
+
 ![assets/scout_app.png](assets/scout_app.png)
 
  - The simplest way is to use [scout-app.io](http://scout-app.io), which can be downloaded for free
 
  - Scout will automatically convert sass into css for us
 
- 
- >> At this stage please complete practical task 1, which will walk you through setting up scout 
 
-  
+
+#Using Command Line SASS 
+
+- If you're using [cloud9](http://www.cloud9.io), command line sass comes pre-installed 
+- If you're working from a native ernviroment you'll need to visist the [sass website](http://sass-lang.com/install) and install it locally 
+
+ 
+ 
 ##Some of the main features 
 
 ###Variables
