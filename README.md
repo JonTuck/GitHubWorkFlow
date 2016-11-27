@@ -108,19 +108,10 @@ By the end of this week you should:
 
 ##Week 7 
 
-This week we'll focus on assessment support 
-
-##Week 7
-
-By the end of this week you should:
- 
-- Understand what GIT and GITHUB are 
-- Be able to construct a basic GIT workflow
-
-**Session 1**
+This week we'll focus on assessment support, so bring your work along to the lesson.  
 
 
-**Session 2**
+
 
 
 ##Week 8 Using Sass
