@@ -1,3 +1,4 @@
+
 - [Variables](#variables)
 - [Including external javaScript files](#including-external-javaScript-files)
 - [Running javaScript](#running-javaScript)
