@@ -4,7 +4,7 @@
 
 - [Variables](#variables)
 - [Including external JavaScript files](#including-external-javascript-files)
-- [Running JavaScript](#running-javaScript)
+- [Running JavaScript](#running-javascript)
 - [Rules for JavaScript Variables](#rules-for-javascript-variables)
 - [Maths operators](#maths-operators)
 - [Accessing the dom](#accessing-the-dom)
