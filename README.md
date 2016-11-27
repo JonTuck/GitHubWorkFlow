@@ -1,9 +1,199 @@
 # Welcome Web Design SWD500
 
+ - [Weekly Sessions](#weekly-sessions)
  - [About the Unit](#about-the-unit)
  - [Unit Team](#unit-team)
  - [Assessment Information & Assignment Briefs](#assessment_information_&_assignment_briefs)  
  
+
+#Weekly Sessions
+
+
+
+##Week 1 Introduction To The Unit
+
+By the end of this week you should:
+
+- Having reviewed HTML and CSS be able to lay out a basic website
+- Understand the course assessment strategy 
+
+
+**Session 1**
+
+-  [Notes - HTML & CSS review](https://github.com/joeappleton18/swd500/tree/master/live_course_git_hub/Sessions/session1.0/notes.md) 
+
+**Session 2**
+
+- [Notes - Introduction to responsive design](https://github.com/joeappleton18/swd500/tree/master/live_course_git_hub/Sessions/session1.1) 
+
+
+##Week 2 An Introduction to GIT 
+
+By the end of this week you should:
+ 
+- Understand what GIT and GITHUB are 
+- Be able to construct a basic GIT workflow
+
+**Session 1**
+
+- [Notes - Introduction to version control using GIT](https://github.com/joeappleton18/swd500/tree/master/live_course_git_hub/Sessions/session2.0)
+- [Practical - A Basic GIT workflow](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session2.0/practical.md)
+
+
+**Session 2**
+
+- [Notes - Upping your GIT game](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session2.1/notes.md)
+
+
+##Week 3 Creating a professional GIT workflow
+
+By the end of this week you should:
+ 
+- You'll have an understanding of more advanced GIT techniques such as branching
+- Be able to collaborate in a team using GIT
+- You'll understand semantic HTML5 tags 
+- Be able to lay out a semantically valid website 
+
+**Session 1**
+
+- [Notes - GIT Branching](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session3.0/notes.md)
+- [Practical - GIT team collaboration](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session3.0/task.md)
+
+**Session 2**
+
+- [Notes - Semantic HTML5](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session3.1/notes.md)
+- [Practical - Laying out a semantic HTML page](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session3.1/task.mdå)
+
+
+##Week 4 - Fluid Grids
+
+By the end of this week you should:
+ 
+ - Understand the components of a fluid grid
+ - Be able to create a fluid grid 
+
+
+**Session 1 and Session 2**
+
+There is a lot to go over this week, so the practical will spread over two sessions. 
+
+- [Notes - Introduction to fluid grids](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session4.0/notes.md)
+- [Practical - Create your own grid](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session4.0/task.md)
+
+
+##Week 5
+
+By the end of this week you should:
+ 
+- Understand how to used media queries 
+- Be able to construct a basic responsive website using media queries 
+
+**Session 1**
+
+- [Notes - The power of media queries](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session5.0/notes.md)
+
+- [Practical - Converting a non responsive website into a responsive version](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session5.0/practical.md)
+
+**Session 2**
+
+
+- [Notes - Responsive typography](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session5.1/notes.md)
+
+
+##Week 6 Fulfilment week
+
+- Fulfilment week. Catch up with activities. 
+
+
+
+##Week 7 
+
+This week we'll focus on assessment support 
+
+##Week 7
+
+By the end of this week you should:
+ 
+- Understand what GIT and GITHUB are 
+- Be able to construct a basic GIT workflow
+
+**Session 1**
+
+
+**Session 2**
+
+
+##Week 8 Using Sass
+
+By the end of this week you should:
+ 
+- Will understand what SASS is  
+- Know how to implement a SASS workflow
+
+**Session 1**
+
+- [Notes - The basics of using SASS](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session8.0/notes.md)
+- [Practical - Converting legacy CSS into SASS](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session8.0/task.md)
+
+**Session 2**
+
+ - [Notes - Creating grids in SASS](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session8.1/notes.md)
+- [Practical - Making a responsive SASS grid](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session8.1/notes.md)
+ 
+
+##Week 9 Assessment Feedback
+
+By the end of this week you should:
+ 
+- Understand what grade you got for Assessment 1 and what areas you need to improve on
+
+**Session 1**
+
+- **Assessment 1 Feedback**
+
+**Session 2**
+
+-	**Assessment 1 Feedback**
+
+##Week 10 jQuery
+
+By the end of this week you should:
+
+- Understand how to use jQuery 
+- Understand the basic concepts of java script
+	- variables 
+	- the equality operators 
+	- if statements 
+- Be able to include jQuery and other libraries using a module manager 
+
+- 
+
+**Session 1**
+
+- [Practical - Introduction to jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
+
+
+
+**Resources**
+
+[Brad Frost, Responsive navigation comparison](http://bradfrost.com/blog/web/responsive-nav-patterns/)  
+[Brad Frost, Navigation patterns for responsive design](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/)
+
+
+
+##Week 11 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
