@@ -40,7 +40,7 @@ The aim of the task this week is to create a number guessing game. Your program 
 - A paragraph to hold the result 
 
 
-2) Using the `query` selector add a [click event](nodes.md#accessing-the-dom), to the bottom that runs a guess function. 
+2) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the bottom that runs a guess function. 
 
 3) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
 
