@@ -4,7 +4,7 @@
 - [Including jQuery into your project](#including-jquery-into-your-project)  
 - [Using jQuery](#using-jquery)
 - [Document ready function](#document-ready-function)
-- [Assigning Event Listeners](#assigning-event-listners)
+- [Assigning Event Listeners](#assigning-event-listeners)
 - [Accessing attributes](#accessing-attributes)
 
 
