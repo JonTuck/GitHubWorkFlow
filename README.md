@@ -155,7 +155,7 @@ By the end of this week you should:
 
 -	**Assessment 1 Feedback**
 
-##Week 10 jQuery
+##Week 10 javaScript and jQuery
 
 By the end of this week you should:
 
