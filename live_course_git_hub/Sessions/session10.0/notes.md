@@ -1,4 +1,7 @@
 
+
+#JavaScript Refresher 
+
 - [Variables](#variables)
 - [Including external JavaScript files](#including-external-javascript-files)
 - [Running JavaScript](#running-javaScript)
@@ -8,7 +11,7 @@
 - [Conditional Statements](#conditional-statements)
 
 
-#Java Script Refresher 
+
 
 #Variables 
 
