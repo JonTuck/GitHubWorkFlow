@@ -159,22 +159,31 @@ By the end of this week you should:
 
 By the end of this week you should:
 
-- Understand how to use jQuery 
-- Understand the basic concepts of java script
+- Understand the basic concepts of javaScript
 	- variables 
 	- the equality operators 
 	- if statements 
+	- dom maniplulation
 - Be able to include jQuery and other libraries using a module manager 
-
-- 
+- Understand the following jQuery concepts
+	- document ready function 
+	- accessing selectors 
+	- manipulating dom elements 
 
 **Session 1**
 
-- [Practical - Introduction to jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
+- [Notes - A javaScript crash course](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/notes.md)
+
+- [Practical - javaScript Guessing Game](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
+
+**Session 2**
+
+- [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
+
+- [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
 
 
-
-**Resources**
+**Read ahead resources**
 
 [Brad Frost, Responsive navigation comparison](http://bradfrost.com/blog/web/responsive-nav-patterns/)  
 [Brad Frost, Navigation patterns for responsive design](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/)
