@@ -2,7 +2,7 @@
 - [Variables](#variables)
 - [Including external javaScript files](#including-external-javaScript-files)
 - [Running javaScript](#running-javaScript)
-- [Rules for JavaScript Variables](##ules-for-javaScript-varibles)
+- [Rules for JavaScript Variables](#rules-for-javascript-variables)
 - [Maths operators](#maths-operators)
 - [Accessing the dom](#accessing-the_dom)
 - [Conditional Statements](#conditional-statements)
