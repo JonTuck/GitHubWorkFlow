@@ -1,3 +1,4 @@
+#JavaScript - Number guessing game
 
 
 
@@ -14,20 +15,35 @@ The presence of the `.git` folder , means that all of the sub folders and files 
 
 1) Within your `class_work` file, create a new folder and call it `week10`.
 
-2) Open a terminal window and navigate to your `week10` folder.
+2) Within `week10` create the following files:
 
-3) Run the command `npm-init` and go through project options. 
+	- js/main.js 
+	- index.html
+3) Within `main.js` create a function called `main`, for now it will just have one line of code in it `alert('working')`
 
-4) We now need to install jQuery, so that we can use it in our project. Run the following command in your `week10` project directly:
-	
-	`npm install --save jquery`
+4) Within `index.html`s body tag, add a [inline load event](#running-javaScript) that calls the function `main`
 
-If you look in your `node_modules`  directory and everything ran correctly. You should see that there is now a folder called `jQuery`. 
+#Task 
 
-5) You can now include jQuery into our webpage in the normal way. 
+The aim of the task this week is to create a number guessing game. Your program will generate a number between a user defined range. The user will then make guesses with the aim of finding that number. Feedback will be given on if the guess is:
 
-`<script type="text/javascript" src="node_modules/jquery/dist/jquery.js"></script>`
+- Smaller than the number
+- Larger than the number 
+- An exact match! 
+
+1) At the following elements to `index.html` and give them `id`'s where appropriate:
+
+- An input and label for min range 
+- An input and label for max range 
+- An input and label for the guess 
+- A `<button>Click Me </button>` that will be pressed after the guess 
+- A paragraph to hold the result 
 
 
-    
+2) Using the `query` selector add a [click event](nodes.md#accessing-the-dom), to the bottom that runs a guess function. 
+
+3) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
+
+4) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
+
 
