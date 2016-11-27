@@ -42,7 +42,7 @@ The aim of the task this week is to create a number guessing game. Your program 
 
 2) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the bottom that runs a guess function. 
 
-3) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
+3) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
 
 4) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
 
