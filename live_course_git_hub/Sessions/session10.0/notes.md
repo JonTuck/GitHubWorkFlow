@@ -2,9 +2,9 @@
 - [Variables](#variables)
 - [Including external javaScript files](#including-external-javaScript-files)
 - [Running javaScript](#running-javaScript)
-- [Rules for JavaScript Variables](##rules_for_javaScript_varibles)
-- [Maths operators](#maths_operators)
-- [Accessing the dom](#accessing_the_dom)
+- [Rules for JavaScript Variables](##ules-for-javaScript-varibles)
+- [Maths operators](#maths-operators)
+- [Accessing the dom](#accessing-the_dom)
 - [Conditional Statements](#conditional-statements)
 
 #Java Script Refresher 
