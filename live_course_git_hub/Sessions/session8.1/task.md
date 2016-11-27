@@ -9,4 +9,4 @@
 	- Use a loop to auto generate offsets and columns 
 
 
-- You may find it helpful to revisit the [grid session] (before you start)[https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session4.0/notes.md] 
+- You may find it helpful to revisit the (grid session)[https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session4.0/notes.md] before you start.
