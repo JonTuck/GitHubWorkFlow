@@ -1,18 +1,18 @@
-- [Variables](##variables)
-- [Including external javaScript files](##including-external-javaScript-files)
-- [Running javaScript](##running-javaScript)
+- [Variables](#variables)
+- [Including external javaScript files](#including-external-javaScript-files)
+- [Running javaScript](#running-javaScript)
 - [Rules for JavaScript Variables](##rules_for_javaScript_varibles)
-- [Maths operators](##maths_operators)
-- [Accessing the dom](##accessing_the_dom)
-- [Conditional Statements](##conditional-statements)
+- [Maths operators](#maths_operators)
+- [Accessing the dom](#accessing_the_dom)
+- [Conditional Statements](#conditional-statements)
 
 #Java Script Refresher 
 
-##Variables 
+#Variables 
 
 Computer programs use variables to store information.
 
-##Including external javaScript files 
+#Including external javaScript files 
 
 Just like with CSS it's considered good practice to separate the javaScript code from our HTML. The `<script>` tag allows us to utilise the `src` attribute to include javaScript contained in an external file.   The following conventions must be adhered to:
 
@@ -32,7 +32,7 @@ Just like with CSS it's considered good practice to separate the javaScript code
 </body>
 ```
 
-##Running JavaScript 
+#Running JavaScript 
 
 Once we've included a java script file, we some way of running it. 
 
@@ -65,7 +65,7 @@ function run(){
 
 
 
-##Rules for JavaScript Variables
+#Rules for JavaScript Variables
 
 - Variable names are case sensitive e.g. `y and Y are different`
 - Variable names must begin with a letter or underscore e.g. `year, _month`
@@ -78,7 +78,7 @@ function run(){
 	- `var x=5`
 	- `var firstNumber,secondNumber,number1,number2,sum;`
 
-###Strings 
+#Strings 
 
 - We can concatenate (join together) multiple string by using the `+` operator. 
 
@@ -92,7 +92,7 @@ console.log(first_var + second_var); //hello word printed to the console.
 
 ```
 
-##Maths Operators 
+#Maths Operators 
 
 You can apply mathematic operations to numbers using some basic operators like:
 
@@ -117,7 +117,7 @@ x++; //x is now 10
 ```
 
 
-##Accessing the DOM 
+#Accessing the DOM 
 
 - DOM stands for document object model, it's structure that holds our HTML
 - We can use the `document.querySelector` to target and manipulate `dom` elements
@@ -170,7 +170,7 @@ function sayHi() {
 	-  `document.querySelector('input[name="your_name"]')`. within the function we again use the query selector, this time targeting our input with the name `your_name`. 
 	-  Finally we use the query selector to set the inner html of a paragraph with a id of `#display_name` to our message
 
-##Conditional Statements 
+#Conditional Statements 
 
 In order to code decisions into our javaScript programs it's necessary to use conditional statements know as `if` statements. 
 
