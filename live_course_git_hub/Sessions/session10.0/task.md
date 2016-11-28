@@ -57,8 +57,6 @@ function getRandomArbitrary(min, max) {
 
 6) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value of your paragraph to display the information based on the guess. 
 
-7) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
-
-8) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
+7) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
 
 
