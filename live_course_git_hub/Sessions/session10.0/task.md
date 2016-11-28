@@ -57,12 +57,6 @@ function getRandomArbitrary(min, max) {
 
 4) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value of your paragraph to display the information based on the guess. 
 
-3) Add a function `main` that runs when the page load. 
-
-4) Within `main` firstly generate a random number and store it to your variable `random_number`. You can use this function:
-
-  
-
 5) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
 
 6) Write the guess function, it should 
