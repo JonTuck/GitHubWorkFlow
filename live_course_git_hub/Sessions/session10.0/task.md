@@ -31,7 +31,7 @@ The aim of the task this week is to create a number guessing game. Your program 
 - Larger than the number 
 - An exact match! 
 
-1) At the following elements to `index.html` and give them `id`'s where appropriate:
+1) Add the following elements to `index.html` and give them `id`'s where appropriate:
 
 - An input and label for min range 
 - An input and label for max range 
@@ -45,8 +45,10 @@ The aim of the task this week is to create a number guessing game. Your program 
 	- max_range
 	- min_range 
 	- random_number 
-	
 
+3) Using the `document.query` selector add a [click event](notes.md#accessing-the-dom), to the bottom that runs a guess function. 
+
+4) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value of your paragraph to display the information based on the guess. 
 
 3) Add a function `main` that runs when the page load. 
 
@@ -58,12 +60,12 @@ function getRandomArbitrary(min, max) {
 }
 ```   
 
-6) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
+5) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
 
-7) Write the guess function, it should 
+6) Write the guess function, it should 
    
    - Grab the  [user input](notes.md#accessing-the-dom) and run some 	[comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
 
-8) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
+7) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
 
 

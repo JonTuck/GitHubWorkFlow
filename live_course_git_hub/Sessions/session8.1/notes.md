@@ -11,7 +11,7 @@ In this session we'll look at some more advanced features that will assist you g
 - Below is an example of how we'd work out the width of a grid column 
 
 ```
-$grid_cols = 12;
+$grid_cols : 12;
 $max_width : 100%; /* a var for max width */
 $col_1_width : $max_width / $grid_cols;
 
