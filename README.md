@@ -1,3 +1,4 @@
+
 # Welcome Web Design SWD500
 
  - [Weekly Sessions](#weekly-sessions)
@@ -106,7 +107,7 @@ By the end of this week you should:
 
 
 
-##Week 7 
+##Week 7 Assessment support
 
 This week we'll focus on assessment support, so bring your work along to the lesson.  
 
@@ -181,7 +182,7 @@ By the end of this week you should:
 
 
 
-##Week 11 
+##Week 11 Creating a responsive jQuery responsive menues
 
 
 

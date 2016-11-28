@@ -3,8 +3,6 @@
 ![](assets/carousel.png)
 
 
-
-
 #Set Up 
 
 1) Within your `class_work` file, create a new folder and call it `week10`.

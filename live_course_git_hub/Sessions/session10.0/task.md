@@ -40,10 +40,30 @@ The aim of the task this week is to create a number guessing game. Your program 
 - A paragraph to hold the result 
 
 
-2) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the bottom that runs a guess function. 
+2) At the top of your javascript file create vars to hold the following values:
 
-3) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
+	- max_range
+	- min_range 
+	- random_number 
+	
 
-4) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
+
+3) Add a function `main` that runs when the page load. 
+
+4) Within `main` firstly generate a random number and store it to your variable `random_number`. You can use this function:
+
+```html
+function getRandomArbitrary(min, max) {
+    return Math.round(Math.random() * (max - min) + min);
+}
+```   
+
+6) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
+
+7) Write the guess function, it should 
+   
+   - Grab the  [user input](notes.md#accessing-the-dom) and run some 	[comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value to display the information based on the guess. 
+
+8) **Advanced** set up a variable called `var number_of_guesses = 10`, decrement this variable on each guess. If the user runs out of guesses it's game over. The inputs should then be hidden. 
 
 
