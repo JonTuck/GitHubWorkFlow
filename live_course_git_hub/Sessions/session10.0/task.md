@@ -33,19 +33,26 @@ The aim of the task this week is to create a number guessing game. Your program 
 
 1) Add the following elements to `index.html` and give them `id`'s where appropriate:
 
-- An input and label for min range 
-- An input and label for max range 
+
 - An input and label for the guess 
 - A `<button>Click Me </button>` that will be pressed after the guess 
 - A paragraph to hold the result 
 
 
-2) At the top of your javascript file create vars to hold the following values:
-
-	- max_range
-	- min_range 
+2) At the top of your javascript file create vars to hold the following values: 
+	
 	- random_number 
+	
+3) Inclue the below function into your js file 	
 
+```html
+function getRandomArbitrary(min, max) {
+    return Math.round(Math.random() * (max - min) + min);
+}
+``` 
+
+5) Set `random_number` equal to a random number by using the above function. This should be done in `main()` when the page has loaded/
+ 
 3) Using the `document.query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
 
 4) Write the guess function, it should grab the the [user input](notes.md#accessing-the-dom) and run some [comparisons](notes.md/#conditional-statements) and adjust the `inner_html` value of your paragraph to display the information based on the guess. 
@@ -54,11 +61,7 @@ The aim of the task this week is to create a number guessing game. Your program 
 
 4) Within `main` firstly generate a random number and store it to your variable `random_number`. You can use this function:
 
-```html
-function getRandomArbitrary(min, max) {
-    return Math.round(Math.random() * (max - min) + min);
-}
-```   
+  
 
 5) Using the `query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
 
