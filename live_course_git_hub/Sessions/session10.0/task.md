@@ -51,7 +51,7 @@ function getRandomArbitrary(min, max) {
 }
 ``` 
 
-5) Set `random_number` equal to a random number by using the above function. This should be done in `main()` when the page has loaded/
+5) Set `random_number` equal to a random number by using the above function. This should be done in `main()` which is called when the page has loaded
  
 3) Using the `document.query` selector add a [click event](notes.md#accessing-the-dom), to the button that runs a guess function. 
 
