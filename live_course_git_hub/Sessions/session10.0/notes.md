@@ -97,6 +97,17 @@ console.log(first_var + second_var); //hello word printed to the console.
 
 ```
 
+##Converting a string to integer
+
+- If you need to perform comparision or run arithmetic on a sting you'll need to an integer, you can use `passInt()`
+
+```html
+var age_string = "18";
+var age_int = passInt(age_string);
+```
+
+
+
 #Maths Operators 
 
 You can apply mathematic operations to numbers using some basic operators like:
