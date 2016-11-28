@@ -5,6 +5,7 @@
 - [Variables](#variables)
 - [Including external JavaScript files](#including-external-javascript-files)
 - [Running JavaScript](#running-javascript)
+- [Variables](#variables)
 - [Rules for JavaScript Variables](#rules-for-javascript-variables)
 - [Maths operators](#maths-operators)
 - [Accessing the dom](#accessing-the-dom)
@@ -13,9 +14,6 @@
 
 
 
-#Variables 
-
-Computer programs use variables to store information.
 
 #Including external javaScript files 
 
@@ -68,7 +66,9 @@ function run(){
   
 ```
 
+#Variables 
 
+Computer programs use variables to store information.
 
 #Rules for JavaScript Variables
 
