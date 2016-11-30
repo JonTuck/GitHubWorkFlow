@@ -168,11 +168,10 @@ By the end of this week you should:
 
 - [Practical - javaScript Guessing Game](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
 
-**Session 2**
 
-- [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
+**Session 2***
 
-- [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
+- Finish off session 1 paratical.
 
 
 **Read ahead resources**
@@ -185,8 +184,18 @@ By the end of this week you should:
 ##Week 11 Creating a responsive jQuery responsive menues
 
 
+**Session 1**
+
+- Instead of the practical attend the GITHUB talk by Joe Nash in the GITHUB talk
+  - The talk will run in the Spar Building Jane Austin lecture hall
 
 
+
+**Session 2**
+
+- [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
+
+- [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
 
 
 
