@@ -187,7 +187,7 @@ By the end of this week you should:
 **Session 1**
 
 - Instead of the practical attend the GITHUB talk by Joe Nash
-  - The talk will run in the Spark Building's Jane Austin lecture hall
+  - The talk will run in the Spark Building's Jane Austin lecture hall - Tuesday 10-11AM 
 
 
 
