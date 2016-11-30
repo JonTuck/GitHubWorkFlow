@@ -186,7 +186,7 @@ By the end of this week you should:
 
 **Session 1**
 
-- Instead of the practical attend the GITHUB talk by Joe Nash in the GITHUB talk
+- Instead of the practical attend the GITHUB talk by Joe Nash
   - The talk will run in the Spar Building Jane Austin lecture hall
 
 
