@@ -170,10 +170,8 @@ By the end of this week you should:
 
 **Session 2**
 
-- [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
 
-- [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
-
+- [Finish off the java scrip task from session 1](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
 
 **Read ahead resources**
 
@@ -182,14 +180,21 @@ By the end of this week you should:
 
 
 
-##Week 11 Creating a responsive jQuery responsive menues
+##Week 11 Introduction to jQuery
 
 
+**Session 1**
 
 
+- [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
+
+- [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
 
 
+**Session 2**
 
+
+- Finish off practical and continue with assessment. 
 
 
 
