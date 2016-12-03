@@ -168,8 +168,10 @@ By the end of this week you should:
 
 - [Practical - javaScript Guessing Game](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
 
-**Session 2**
 
+**Session 2***
+
+- Finish off session 1 practical.
 
 - [Finish off the java scrip task from session 1](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.0/task.md)
 
@@ -186,6 +188,8 @@ By the end of this week you should:
 **Session 1**
 
 
+
+
 - [Notes - Introducing jQuery](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md)
 
 - [Practical - Making a jQuery carousel](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/task.md)
@@ -193,14 +197,9 @@ By the end of this week you should:
 
 **Session 2**
 
-
-- Finish off practical and continue with assessment. 
-
-
-
-
-
-
+- Instead of the practical attend the GITHUB talk by Joe Nash
+  - The talk will run in the Spark Building's Jane Austin lecture hall
+    - Tuesday 10-11AM 
 
 
 #About the Unit 
