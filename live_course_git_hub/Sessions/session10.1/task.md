@@ -55,7 +55,7 @@ var imageFolder = 'images/';
 var extension  = '.jpg';
 ```
 
-4) Within your assign [click events](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md#assigning-event-listeners) to the both of the arrows. You'll need to give them an id. See if you can write to the console when they're clicked
+4) Within your js file assign [click events](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session10.1/notes.md#assigning-event-listeners) to the both of the arrows. You'll need to give them an id. See if you can write to the console when they're clicked
 
 5) Now the hard part, we need to make the carousel slide. Recall`currentIndex = 1` and our starting image is `image_1.jpg`
 
