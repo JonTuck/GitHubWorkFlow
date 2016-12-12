@@ -201,6 +201,28 @@ By the end of this week you should:
   - The talk will run in the Spark Building's Jane Austin lecture hall
     - Tuesday 10-11AM 
 
+##Week 12 Responsive Navigation 
+
+
+
+- By the end of this week you should:
+	
+	- Be able to implement a jQuery hamburger menue 
+
+**Session 1**
+
+
+- [Notes - Creating a hamburger menu](https://github.com/joeappleton18/swd500/blob/master/live_course_git_hub/Sessions/session11/notes.md)
+
+
+**Session 2**
+
+Finish off hamburger menu and assessment support 
+
+##Week 12 - 14 
+
+**Assessment support**
+
 
 #About the Unit 
 
