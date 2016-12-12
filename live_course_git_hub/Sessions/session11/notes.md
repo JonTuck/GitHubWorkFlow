@@ -12,7 +12,7 @@ One of the best ways to learn web development is to modify existing code. This w
 
 ##Task 
 
-1) Download the starter project from here   
+1) [Download the starter project from here](https://github.com/joeappleton18/swd500/raw/master/live_course_git_hub/Sessions/session11/assets/responsive-navigation.zip)  
 2) As you can see, although the menu works, it has been implemented using internal css and javaScript.   
 3) Your job is to convert this single html page into a better structured project. You should as a minimum consider the following:
 
